@@ -12,6 +12,8 @@ MVC Pattern stands for Model-View-Controller Pattern. This pattern is used to se
 
 3. Controller - Controller acts on both model and view. It controls the data flow into model object and updates the view whenever data changes. It keeps view and model separate.
 
+<img src="https://github.com/patrickmujuni/mujunip/blob/master/hh.png" alt="hi" class="inline"/>
+
 # IMPLEMENTATION
 
 ### Use in web applications
